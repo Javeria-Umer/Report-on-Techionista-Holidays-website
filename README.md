@@ -29,5 +29,5 @@ The primary goal of this project was to identify areas for improvement and enhan
 ## 6. Page Customization<a name="page-customization"></a>
 **Explanation**: Customizing the report's theme was a crucial step. This was achieved by adjusting color schemes, fonts, and sizes to match the Techionista Holidays branding. Additionally, incorporated navigation buttons, titles, and slicers on respective pages to enhance the user experience.
 
-!(https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-home.png?raw=true)
-!(https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-trip.png?raw=true)
+![](https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-home.png?raw=true)
+![](https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-trip.png?raw=true)
