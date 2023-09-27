@@ -23,10 +23,10 @@ The primary goal of this project was to identify areas for improvement and enhan
 ## 4. Data Visualization<a name="data-visualization"></a>
 **Explanation**: The data visualization process involved creating an interactive report with different pages. Slicers were added to enable data filtering based on countries, cities, hotels, dates, trip types, traveler types, and nationalities. Various visualizations, such as donut charts, maps, decomposition trees, and the Key Influencer Chart, were employed to convey insights effectively.
 
-## 5. Page Customization<a name="page-customization"></a>
-**Explanation**: Customizing the report's theme was a crucial step. This was achieved by adjusting color schemes, fonts, and sizes to match the Techionista Holidays branding. Additionally, incorporated navigation buttons, titles, and slicers on respective pages to enhance the user experience.
-
-## 6. Key Influencer Chart<a name="key-influencer-chart"></a>
+## 5. Key Influencer Chart<a name="key-influencer-chart"></a>
 **Explanation**: The Key Influencer Chart was efficiently used to summarize the key reasons for the increase or decrease in reviews. This chart provided valuable insights into customer sentiment and its impact on website performance.
+
+## 6. Page Customization<a name="page-customization"></a>
+**Explanation**: Customizing the report's theme was a crucial step. This was achieved by adjusting color schemes, fonts, and sizes to match the Techionista Holidays branding. Additionally, incorporated navigation buttons, titles, and slicers on respective pages to enhance the user experience.
 
 !(https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-home.png?raw=true)
