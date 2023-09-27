@@ -22,6 +22,8 @@ The primary goal of this project was to identify areas for improvement and enhan
 ## 3. Dimension Tables Creation<a name="dimension-tables-creation"></a>
 **Explanation**: To facilitate efficient data organization and analysis, created dimension tables for Negative and Positive reviews. I established relationships between dimension and fact tables to form star schema. This structuring enabled insightful analysis and visualization.
 
+![](https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-model.png?raw=true)
+
 ## 4. Page Customization<a name="page-customization"></a>
 **Explanation**: Customizing the report's theme was a crucial step. This was achieved by adjusting color schemes, fonts, and sizes to match the Techionista Holidays branding. Additionally, incorporated navigation buttons, titles, and slicers on respective pages to enhance the user experience.
 
