@@ -29,4 +29,4 @@ The primary goal of this project was to identify areas for improvement and enhan
 ## 6. Key Influencer Chart<a name="key-influencer-chart"></a>
 **Explanation**: The Key Influencer Chart was efficiently used to summarize the key reasons for the increase or decrease in reviews. This chart provided valuable insights into customer sentiment and its impact on website performance.
 
-!(https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-home.png)
+!(https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-home.png?raw=true)
