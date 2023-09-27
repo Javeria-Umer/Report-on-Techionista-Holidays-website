@@ -1,4 +1,4 @@
-# Techionista Holidays Website Business Case Solution
+# Techionista Holidays Website Business Case
 
 ## Objective
 The primary goal of this project was to identify areas for improvement and enhance customer satisfaction across Europe by analyzing customer reviews and optimizing the Techionista Holidays website's performance.
