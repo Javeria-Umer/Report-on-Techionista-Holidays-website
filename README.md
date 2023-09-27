@@ -10,6 +10,8 @@ The primary goal of this project was to identify areas for improvement and enhan
 4. [Data Visualization](#data-visualization)
 5. [Page Customization](#page-customization)
 6. [Key Influencer Chart](#key-influencer-chart)
+7. [Publishing the report to PowerBI Service](#Publishing-the-report-to-PowerBI-Service)
+
 
 ## 1. Project Overview<a name="project-overview"></a>
 **Explanation**: This section provides an introduction to the project, its objectives, and its significance. It aims to enhance customer satisfaction across Europe through data analysis and website optimization.
