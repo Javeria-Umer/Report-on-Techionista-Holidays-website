@@ -30,6 +30,8 @@ The primary goal of this project was to identify areas for improvement and enhan
 
 ![](https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-trip.png?raw=true)
 
+<br> <!-- This line creates a gap -->
+
 ![](https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-review.png?raw=true)
 
 
