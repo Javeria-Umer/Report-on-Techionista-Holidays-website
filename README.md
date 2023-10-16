@@ -44,7 +44,7 @@ The primary goal of this project was to identify areas for improvement and enhan
 
 ![](https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-key%20influencer.png?raw=true)
 
-## 7. Publishing the report to PowerBI Service<a name="Publishing-the-report-to-PowerBI-Service"></a>
+## 7. Publishing the report to PowerBI Service<a name="publishing-the-report-to-powerbi-service"></a>
 **Explanation**: After creating the interactive report, I took it a step further by publishing it to Power BI Service, making it accessible to a broader audience for real-time insights.
 Use the following link to access the report:
 https://app.powerbi.com/reportEmbed?reportId=fa61d2d9-c1dc-4322-96d4-e5916db72a2b&autoAuth=true&ctid=23828106-3f61-47d7-9e8d-c03d006b795f
