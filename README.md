@@ -4,7 +4,7 @@
 The primary goal of this project was to identify areas for improvement and enhance customer satisfaction across Europe by analyzing customer reviews and optimizing the Techionista Holidays website's performance.
 
 ## Table of Contents
-1. [a](#project-overview)
+1. [Project Overview](#project-overview)
 2. [Data Access and Preprocessing](#data-access-and-preprocessing)
 3. [Dimension Tables Creation](#dimension-tables-creation)
 4. [Data Visualization](#data-visualization)
