@@ -7,10 +7,10 @@ The primary goal of this project was to identify areas for improvement and enhan
 1. [Project Overview](#project-overview)
 2. [Data Access and Preprocessing](#data-access-and-preprocessing)
 3. [Dimension Tables Creation](#dimension-tables-creation)
-4. [Data Visualization](#data-visualization)
-5. [Page Customization](#page-customization)
-6. [Key Influencer Chart](#key-influencer-chart)
-7. [Publishing the report to PowerBI Service](#Publishing-the-report-to-PowerBI-Service)
+4. [Page Customization](#page-customization)
+5. [Data Visualization](#data-visualization)
+7. [Key Influencer Chart](#key-influencer-chart)
+8. [Publishing the report to PowerBI Service](#Publishing-the-report-to-PowerBI-Service)
 
 
 ## 1. Project Overview<a name="project-overview"></a>
