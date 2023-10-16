@@ -10,7 +10,7 @@ The primary goal of this project was to identify areas for improvement and enhan
 4. [Page Customization](#page-customization)
 5. [Data Visualization](#data-visualization)
 7. [Key Influencer Chart](#key-influencer-chart)
-8. [Publishing the report to PowerBI Service](#Publishing-the-report-to-PowerBI-Service)
+8. [Publishing the report to PowerBI Service](#publishing-the-report-to-powerbi-service)
 
 
 ## 1. Project Overview<a name="project-overview"></a>
