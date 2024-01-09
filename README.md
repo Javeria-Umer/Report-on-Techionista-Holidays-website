@@ -9,7 +9,8 @@ The primary goal of this project was to identify areas for improvement and enhan
 3. [Dimension Tables Creation](#dimension-tables-creation)
 4. [Page Customization](#page-customization)
 5. [Data Visualization](#data-visualization)
-7. [Key Influencer Chart](#key-influencer-chart)
+6. [Key Influencer Chart](#key-influencer-chart)
+7. [Smart Narrative for Page Summary](#smart-narrative-for-page-summary)
 8. [Publishing the report to PowerBI Service](#publishing-the-report-to-powerbi-service)
 
 
@@ -38,13 +39,15 @@ The primary goal of this project was to identify areas for improvement and enhan
 
 ![](https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-review.png?raw=true)
 
-
 ## 6. Key Influencer Chart<a name="key-influencer-chart"></a>
 **Explanation**: The Key Influencer Chart was efficiently used to summarize the key reasons for the increase or decrease in reviews. This chart provided valuable insights into customer sentiment and its impact on website performance.
 
 ![](https://github.com/Javeria-Umer/Report-on-Techionista-Holidays-website/blob/main/Techionista%20holidays%20website-key%20influencer.png?raw=true)
 
-## 7. Publishing the report to PowerBI Service<a name="publishing-the-report-to-powerbi-service"></a>
+## 7. Smart Narrative for Page Summary<a name="smart-narrative-for-page-summary"></a>
+**Explanation**: Implemented the Smart Narrative feature to create dynamic page summaries. This automated text visual provides concise insights and highlights key findings. It dynamically incorporates changes based on slicer or filter selections, enhancing the interpretability of the data visualizations.
+
+## 8. Publishing the report to PowerBI Service<a name="publishing-the-report-to-powerbi-service"></a>
 **Explanation**: After creating the interactive report, I took it a step further by publishing it to Power BI Service, making it accessible to a broader audience for real-time insights.
 Use the following link to access the report:
 https://app.powerbi.com/reportEmbed?reportId=fa61d2d9-c1dc-4322-96d4-e5916db72a2b&autoAuth=true&ctid=23828106-3f61-47d7-9e8d-c03d006b795f
